@@ -93,5 +93,3 @@ O status é armazenado no **PostgreSQL** (para persistência) e no **Redis** (pa
 ## Conclusão
 
 Este sistema foi projetado para ser altamente escalável, resiliente e capaz de lidar com grandes volumes de requisições. A escolha do Kafka como sistema de mensageria, combinada com a escalabilidade horizontal dos Worker Nodes e o uso de PostgreSQL e Redis para gerenciamento de status, garante que o sistema seja robusto e eficiente.
-
-Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato.
